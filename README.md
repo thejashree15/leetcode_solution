@@ -5,8 +5,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/thejashree15/leetcode_solution/tree/master/0021-merge-two-sorted-lists) |
+| [0141-linked-list-cycle](https://github.com/thejashree15/leetcode_solution/tree/master/0141-linked-list-cycle) |
 ## Recursion
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/thejashree15/leetcode_solution/tree/master/0021-merge-two-sorted-lists) |
+## Hash Table
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/thejashree15/leetcode_solution/tree/master/0141-linked-list-cycle) |
+## Two Pointers
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/thejashree15/leetcode_solution/tree/master/0141-linked-list-cycle) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/thejashree15/leetcode_solution/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
