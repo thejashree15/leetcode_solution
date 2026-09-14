@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/thejashree15/leetcode_solution/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/thejashree15/leetcode_solution/tree/master/0004-median-of-two-sorted-arrays) |
+| [0051-n-queens](https://github.com/thejashree15/leetcode_solution/tree/master/0051-n-queens) |
 ## Binary Search
 |  |
 | ------- |
@@ -64,4 +65,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/thejashree15/leetcode_solution/tree/master/0143-reorder-list) |
+## Backtracking
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/thejashree15/leetcode_solution/tree/master/0051-n-queens) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/thejashree15/leetcode_solution/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
