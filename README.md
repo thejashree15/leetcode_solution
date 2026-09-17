@@ -87,4 +87,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/thejashree15/leetcode_solution/tree/master/0287-find-the-duplicate-number) |
+## Database
+|  |
+| ------- |
+| [1693-daily-leads-and-partners](https://github.com/thejashree15/leetcode_solution/tree/master/1693-daily-leads-and-partners) |
 <!---LeetCode Topics End-->
