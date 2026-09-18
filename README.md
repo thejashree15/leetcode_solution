@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/thejashree15/leetcode_solution/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/thejashree15/leetcode_solution/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/thejashree15/leetcode_solution/tree/master/0143-reorder-list) |
+| [0146-lru-cache](https://github.com/thejashree15/leetcode_solution/tree/master/0146-lru-cache) |
 | [0148-sort-list](https://github.com/thejashree15/leetcode_solution/tree/master/0148-sort-list) |
 | [0876-middle-of-the-linked-list](https://github.com/thejashree15/leetcode_solution/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/thejashree15/leetcode_solution/tree/master/0001-two-sum) |
 | [0138-copy-list-with-random-pointer](https://github.com/thejashree15/leetcode_solution/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/thejashree15/leetcode_solution/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/thejashree15/leetcode_solution/tree/master/0146-lru-cache) |
 ## Two Pointers
 |  |
 | ------- |
@@ -94,4 +96,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/thejashree15/leetcode_solution/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1693-daily-leads-and-partners](https://github.com/thejashree15/leetcode_solution/tree/master/1693-daily-leads-and-partners) |
 | [1729-find-followers-count](https://github.com/thejashree15/leetcode_solution/tree/master/1729-find-followers-count) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/thejashree15/leetcode_solution/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/thejashree15/leetcode_solution/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
