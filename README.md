@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/thejashree15/leetcode_solution/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/thejashree15/leetcode_solution/tree/master/0021-merge-two-sorted-lists) |
 | [0143-reorder-list](https://github.com/thejashree15/leetcode_solution/tree/master/0143-reorder-list) |
+| [0231-power-of-two](https://github.com/thejashree15/leetcode_solution/tree/master/0231-power-of-two) |
 ## Hash Table
 |  |
 | ------- |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/thejashree15/leetcode_solution/tree/master/0002-add-two-numbers) |
+| [0231-power-of-two](https://github.com/thejashree15/leetcode_solution/tree/master/0231-power-of-two) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/thejashree15/leetcode_solution/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2235-add-two-integers](https://github.com/thejashree15/leetcode_solution/tree/master/2235-add-two-integers) |
 | [3895-count-digit-appearances](https://github.com/thejashree15/leetcode_solution/tree/master/3895-count-digit-appearances) |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/thejashree15/leetcode_solution/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/thejashree15/leetcode_solution/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/thejashree15/leetcode_solution/tree/master/0287-find-the-duplicate-number) |
 ## Pigeonhole Principle
 |  |
