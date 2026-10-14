@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/thejashree15/leetcode_solution/tree/master/0004-median-of-two-sorted-arrays) |
 | [0039-combination-sum](https://github.com/thejashree15/leetcode_solution/tree/master/0039-combination-sum) |
 | [0051-n-queens](https://github.com/thejashree15/leetcode_solution/tree/master/0051-n-queens) |
+| [0136-single-number](https://github.com/thejashree15/leetcode_solution/tree/master/0136-single-number) |
 | [0287-find-the-duplicate-number](https://github.com/thejashree15/leetcode_solution/tree/master/0287-find-the-duplicate-number) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/thejashree15/leetcode_solution/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3895-count-digit-appearances](https://github.com/thejashree15/leetcode_solution/tree/master/3895-count-digit-appearances) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/thejashree15/leetcode_solution/tree/master/0136-single-number) |
 | [0287-find-the-duplicate-number](https://github.com/thejashree15/leetcode_solution/tree/master/0287-find-the-duplicate-number) |
 ## Pigeonhole Principle
 |  |
