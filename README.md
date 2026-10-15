@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2235-add-two-integers](https://github.com/thejashree15/leetcode_solution/tree/master/2235-add-two-integers) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/thejashree15/leetcode_solution/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2652-sum-multiples](https://github.com/thejashree15/leetcode_solution/tree/master/2652-sum-multiples) |
+| [2894-divisible-and-non-divisible-sums-difference](https://github.com/thejashree15/leetcode_solution/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3895-count-digit-appearances](https://github.com/thejashree15/leetcode_solution/tree/master/3895-count-digit-appearances) |
 ## Stack
 |  |
