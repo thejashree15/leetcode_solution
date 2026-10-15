@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/thejashree15/leetcode_solution/tree/master/0287-find-the-duplicate-number) |
 | [0560-subarray-sum-equals-k](https://github.com/thejashree15/leetcode_solution/tree/master/0560-subarray-sum-equals-k) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/thejashree15/leetcode_solution/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2798-number-of-employees-who-met-the-target](https://github.com/thejashree15/leetcode_solution/tree/master/2798-number-of-employees-who-met-the-target) |
 | [3895-count-digit-appearances](https://github.com/thejashree15/leetcode_solution/tree/master/3895-count-digit-appearances) |
 ## Binary Search
 |  |
