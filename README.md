@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/thejashree15/leetcode_solution/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/thejashree15/leetcode_solution/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/thejashree15/leetcode_solution/tree/master/0146-lru-cache) |
+| [0560-subarray-sum-equals-k](https://github.com/thejashree15/leetcode_solution/tree/master/0560-subarray-sum-equals-k) |
 ## Two Pointers
 |  |
 | ------- |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/thejashree15/leetcode_solution/tree/master/0051-n-queens) |
 | [0136-single-number](https://github.com/thejashree15/leetcode_solution/tree/master/0136-single-number) |
 | [0287-find-the-duplicate-number](https://github.com/thejashree15/leetcode_solution/tree/master/0287-find-the-duplicate-number) |
+| [0560-subarray-sum-equals-k](https://github.com/thejashree15/leetcode_solution/tree/master/0560-subarray-sum-equals-k) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/thejashree15/leetcode_solution/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3895-count-digit-appearances](https://github.com/thejashree15/leetcode_solution/tree/master/3895-count-digit-appearances) |
 ## Binary Search
@@ -188,4 +190,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/thejashree15/leetcode_solution/tree/master/0344-reverse-string) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/thejashree15/leetcode_solution/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
