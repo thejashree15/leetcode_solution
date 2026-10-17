@@ -198,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/thejashree15/leetcode_solution/tree/master/0344-reverse-string) |
+| [3019-number-of-changing-keys](https://github.com/thejashree15/leetcode_solution/tree/master/3019-number-of-changing-keys) |
 ## Prefix Sum
 |  |
 | ------- |
