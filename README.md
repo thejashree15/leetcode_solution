@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/thejashree15/leetcode_solution/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/thejashree15/leetcode_solution/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/thejashree15/leetcode_solution/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/thejashree15/leetcode_solution/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3895-count-digit-appearances](https://github.com/thejashree15/leetcode_solution/tree/master/3895-count-digit-appearances) |
 ## Binary Search
 |  |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2652-sum-multiples](https://github.com/thejashree15/leetcode_solution/tree/master/2652-sum-multiples) |
 | [2769-find-the-maximum-achievable-number](https://github.com/thejashree15/leetcode_solution/tree/master/2769-find-the-maximum-achievable-number) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/thejashree15/leetcode_solution/tree/master/2894-divisible-and-non-divisible-sums-difference) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/thejashree15/leetcode_solution/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3895-count-digit-appearances](https://github.com/thejashree15/leetcode_solution/tree/master/3895-count-digit-appearances) |
 ## Stack
 |  |
