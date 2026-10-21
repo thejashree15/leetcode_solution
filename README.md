@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/thejashree15/leetcode_solution/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/thejashree15/leetcode_solution/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/thejashree15/leetcode_solution/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2974-minimum-number-game](https://github.com/thejashree15/leetcode_solution/tree/master/2974-minimum-number-game) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/thejashree15/leetcode_solution/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3895-count-digit-appearances](https://github.com/thejashree15/leetcode_solution/tree/master/3895-count-digit-appearances) |
 ## Binary Search
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/thejashree15/leetcode_solution/tree/master/0148-sort-list) |
+| [2974-minimum-number-game](https://github.com/thejashree15/leetcode_solution/tree/master/2974-minimum-number-game) |
 ## Merge Sort
 |  |
 | ------- |
@@ -219,4 +221,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/thejashree15/leetcode_solution/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2974-minimum-number-game](https://github.com/thejashree15/leetcode_solution/tree/master/2974-minimum-number-game) |
+## Simulation
+|  |
+| ------- |
+| [2974-minimum-number-game](https://github.com/thejashree15/leetcode_solution/tree/master/2974-minimum-number-game) |
 <!---LeetCode Topics End-->
