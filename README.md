@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/thejashree15/leetcode_solution/tree/master/0004-median-of-two-sorted-arrays) |
 | [0148-sort-list](https://github.com/thejashree15/leetcode_solution/tree/master/0148-sort-list) |
+| [0372-super-pow](https://github.com/thejashree15/leetcode_solution/tree/master/0372-super-pow) |
 ## Sorting
 |  |
 | ------- |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/thejashree15/leetcode_solution/tree/master/0002-add-two-numbers) |
 | [0231-power-of-two](https://github.com/thejashree15/leetcode_solution/tree/master/0231-power-of-two) |
+| [0372-super-pow](https://github.com/thejashree15/leetcode_solution/tree/master/0372-super-pow) |
 | [1486-xor-operation-in-an-array](https://github.com/thejashree15/leetcode_solution/tree/master/1486-xor-operation-in-an-array) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/thejashree15/leetcode_solution/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/thejashree15/leetcode_solution/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -241,4 +243,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2974-minimum-number-game](https://github.com/thejashree15/leetcode_solution/tree/master/2974-minimum-number-game) |
+## Euler's Totient Function
+|  |
+| ------- |
+| [0372-super-pow](https://github.com/thejashree15/leetcode_solution/tree/master/0372-super-pow) |
+## Euler's Theorem
+|  |
+| ------- |
+| [0372-super-pow](https://github.com/thejashree15/leetcode_solution/tree/master/0372-super-pow) |
 <!---LeetCode Topics End-->
