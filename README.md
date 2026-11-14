@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/thejashree15/leetcode_solution/tree/master/0287-find-the-duplicate-number) |
 | [0560-subarray-sum-equals-k](https://github.com/thejashree15/leetcode_solution/tree/master/0560-subarray-sum-equals-k) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/thejashree15/leetcode_solution/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/thejashree15/leetcode_solution/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1550-three-consecutive-odds](https://github.com/thejashree15/leetcode_solution/tree/master/1550-three-consecutive-odds) |
 | [1672-richest-customer-wealth](https://github.com/thejashree15/leetcode_solution/tree/master/1672-richest-customer-wealth) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/thejashree15/leetcode_solution/tree/master/1822-sign-of-the-product-of-an-array) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/thejashree15/leetcode_solution/tree/master/0002-add-two-numbers) |
 | [0231-power-of-two](https://github.com/thejashree15/leetcode_solution/tree/master/0231-power-of-two) |
 | [0372-super-pow](https://github.com/thejashree15/leetcode_solution/tree/master/0372-super-pow) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/thejashree15/leetcode_solution/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1486-xor-operation-in-an-array](https://github.com/thejashree15/leetcode_solution/tree/master/1486-xor-operation-in-an-array) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/thejashree15/leetcode_solution/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/thejashree15/leetcode_solution/tree/master/1979-find-greatest-common-divisor-of-array) |
