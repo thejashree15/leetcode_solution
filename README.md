@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/thejashree15/leetcode_solution/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/thejashree15/leetcode_solution/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/thejashree15/leetcode_solution/tree/master/0148-sort-list) |
+| [0189-rotate-array](https://github.com/thejashree15/leetcode_solution/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/thejashree15/leetcode_solution/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/thejashree15/leetcode_solution/tree/master/0344-reverse-string) |
 | [0876-middle-of-the-linked-list](https://github.com/thejashree15/leetcode_solution/tree/master/0876-middle-of-the-linked-list) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/thejashree15/leetcode_solution/tree/master/0039-combination-sum) |
 | [0051-n-queens](https://github.com/thejashree15/leetcode_solution/tree/master/0051-n-queens) |
 | [0136-single-number](https://github.com/thejashree15/leetcode_solution/tree/master/0136-single-number) |
+| [0189-rotate-array](https://github.com/thejashree15/leetcode_solution/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/thejashree15/leetcode_solution/tree/master/0287-find-the-duplicate-number) |
 | [0414-third-maximum-number](https://github.com/thejashree15/leetcode_solution/tree/master/0414-third-maximum-number) |
 | [0560-subarray-sum-equals-k](https://github.com/thejashree15/leetcode_solution/tree/master/0560-subarray-sum-equals-k) |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/thejashree15/leetcode_solution/tree/master/0002-add-two-numbers) |
+| [0189-rotate-array](https://github.com/thejashree15/leetcode_solution/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/thejashree15/leetcode_solution/tree/master/0231-power-of-two) |
 | [0372-super-pow](https://github.com/thejashree15/leetcode_solution/tree/master/0372-super-pow) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/thejashree15/leetcode_solution/tree/master/1295-find-numbers-with-even-number-of-digits) |
