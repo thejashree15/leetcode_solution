@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/thejashree15/leetcode_solution/tree/master/0146-lru-cache) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/thejashree15/leetcode_solution/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/thejashree15/leetcode_solution/tree/master/0560-subarray-sum-equals-k) |
+| [2404-most-frequent-even-element](https://github.com/thejashree15/leetcode_solution/tree/master/2404-most-frequent-even-element) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/thejashree15/leetcode_solution/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Two Pointers
 |  |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/thejashree15/leetcode_solution/tree/master/1672-richest-customer-wealth) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/thejashree15/leetcode_solution/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/thejashree15/leetcode_solution/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2404-most-frequent-even-element](https://github.com/thejashree15/leetcode_solution/tree/master/2404-most-frequent-even-element) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/thejashree15/leetcode_solution/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/thejashree15/leetcode_solution/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2974-minimum-number-game](https://github.com/thejashree15/leetcode_solution/tree/master/2974-minimum-number-game) |
@@ -261,4 +263,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0372-super-pow](https://github.com/thejashree15/leetcode_solution/tree/master/0372-super-pow) |
+## Counting
+|  |
+| ------- |
+| [2404-most-frequent-even-element](https://github.com/thejashree15/leetcode_solution/tree/master/2404-most-frequent-even-element) |
 <!---LeetCode Topics End-->
