@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/thejashree15/leetcode_solution/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/thejashree15/leetcode_solution/tree/master/0148-sort-list) |
 | [0189-rotate-array](https://github.com/thejashree15/leetcode_solution/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/thejashree15/leetcode_solution/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/thejashree15/leetcode_solution/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/thejashree15/leetcode_solution/tree/master/0344-reverse-string) |
 | [0876-middle-of-the-linked-list](https://github.com/thejashree15/leetcode_solution/tree/master/0876-middle-of-the-linked-list) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/thejashree15/leetcode_solution/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/thejashree15/leetcode_solution/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/thejashree15/leetcode_solution/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/thejashree15/leetcode_solution/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/thejashree15/leetcode_solution/tree/master/0287-find-the-duplicate-number) |
 | [0414-third-maximum-number](https://github.com/thejashree15/leetcode_solution/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/thejashree15/leetcode_solution/tree/master/0442-find-all-duplicates-in-an-array) |
