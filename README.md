@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/thejashree15/leetcode_solution/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/thejashree15/leetcode_solution/tree/master/0268-missing-number) |
 | [0372-super-pow](https://github.com/thejashree15/leetcode_solution/tree/master/0372-super-pow) |
+| [0507-perfect-number](https://github.com/thejashree15/leetcode_solution/tree/master/0507-perfect-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/thejashree15/leetcode_solution/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1486-xor-operation-in-an-array](https://github.com/thejashree15/leetcode_solution/tree/master/1486-xor-operation-in-an-array) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/thejashree15/leetcode_solution/tree/master/1822-sign-of-the-product-of-an-array) |
