@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/thejashree15/leetcode_solution/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/thejashree15/leetcode_solution/tree/master/0146-lru-cache) |
 | [0268-missing-number](https://github.com/thejashree15/leetcode_solution/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/thejashree15/leetcode_solution/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/thejashree15/leetcode_solution/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/thejashree15/leetcode_solution/tree/master/0560-subarray-sum-equals-k) |
 | [2404-most-frequent-even-element](https://github.com/thejashree15/leetcode_solution/tree/master/2404-most-frequent-even-element) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/thejashree15/leetcode_solution/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/thejashree15/leetcode_solution/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/thejashree15/leetcode_solution/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/thejashree15/leetcode_solution/tree/master/0349-intersection-of-two-arrays) |
 | [0876-middle-of-the-linked-list](https://github.com/thejashree15/leetcode_solution/tree/master/0876-middle-of-the-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/thejashree15/leetcode_solution/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/thejashree15/leetcode_solution/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/thejashree15/leetcode_solution/tree/master/0287-find-the-duplicate-number) |
+| [0349-intersection-of-two-arrays](https://github.com/thejashree15/leetcode_solution/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/thejashree15/leetcode_solution/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/thejashree15/leetcode_solution/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/thejashree15/leetcode_solution/tree/master/0560-subarray-sum-equals-k) |
@@ -82,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/thejashree15/leetcode_solution/tree/master/0004-median-of-two-sorted-arrays) |
 | [0268-missing-number](https://github.com/thejashree15/leetcode_solution/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/thejashree15/leetcode_solution/tree/master/0287-find-the-duplicate-number) |
+| [0349-intersection-of-two-arrays](https://github.com/thejashree15/leetcode_solution/tree/master/0349-intersection-of-two-arrays) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/thejashree15/leetcode_solution/tree/master/0744-find-smallest-letter-greater-than-target) |
 ## Divide and Conquer
 |  |
@@ -94,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0148-sort-list](https://github.com/thejashree15/leetcode_solution/tree/master/0148-sort-list) |
 | [0268-missing-number](https://github.com/thejashree15/leetcode_solution/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/thejashree15/leetcode_solution/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/thejashree15/leetcode_solution/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/thejashree15/leetcode_solution/tree/master/0442-find-all-duplicates-in-an-array) |
 | [2974-minimum-number-game](https://github.com/thejashree15/leetcode_solution/tree/master/2974-minimum-number-game) |
